@@ -17,4 +17,4 @@
    Es una tabla personalizada para mostrar datos en un formato estructurado. Puede incluir funcionalidades adicionales como búsqueda, ordenamiento, o paginación según los datos a visualizar.
 
 7. **Gallery**:  
-   Presenta una colección de imágenes o multimedia en un formato atractivo, como una cuadrícula o carrusel. Se utiliza para destacar contenido visual, permitiendo a los usuarios.
+   Presenta una colección de imágenes o multimedia en un formato atractivo, como una cuadrícula o carrusel.
